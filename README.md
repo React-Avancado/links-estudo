@@ -2,6 +2,8 @@
 
 Segue abaixo uma lista com vários links de vídeos, artigos, repositórios no Github e qualquer coisa que seja interessante para os nossos estudos. Tudo referente ao curso [React Avançado](https://reactavancado.com.br/).
 
+Tem algum link? Adicione aqui embaixo de acordo com as categorias. Caso não tenha a categoria desejada, só criar e explicar a necessidade dela =)
+
 ### TypeScript
 
 - [Site oficial do TypeScript](https://www.typescriptlang.org/) - Site oficial mostrando como instalar e iniciar com TS.
