@@ -4,6 +4,8 @@ Segue abaixo uma lista com vários links de vídeos, artigos, repositórios no G
 
 Tem algum link? Adicione aqui embaixo de acordo com as categorias. Caso não tenha a categoria desejada, só criar e explicar a necessidade dela =)
 
+Não sabe como contribuir, [aprenda a criar um Pull Request](https://www.digitalocean.com/community/tutorials/como-criar-um-pull-request-no-github-pt).
+
 ### TypeScript
 
 - [Site oficial do TypeScript](https://www.typescriptlang.org/) - Site oficial mostrando como instalar e iniciar com TS.
