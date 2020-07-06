@@ -43,6 +43,7 @@ Não sabe como contribuir, [aprenda a criar um Pull Request](https://www.digital
 - [Awesome React GraphQL](https://github.com/hasura/awesome-react-graphql) - Coleção com vários links sobre React e GraphQL.
 - [Blog do Apollo](https://www.apollographql.com/blog/) - Blog oficial do Apollo com muitas informações sobre o Apollo e GraphQL em si.
 - [Tutoriais FREE de GraphQL](https://www.howtographql.com/) - Vários tutoriais FREE de GraphQL, abordando diferentes combinações de front e backend.
+- [Tutoriais rápidos do GraphQL - FREE](https://hasura.io/learn/) - Tutoriais direto ao ponto sobre como utilizar GraphQL nas suas aplicações.
 - [json-graphql-server](https://github.com/marmelab/json-graphql-server) - Crie uma api fake GrahpQl em poucos segundos.
 
 ### Testes
