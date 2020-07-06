@@ -8,6 +8,8 @@ Tem algum link? Adicione aqui embaixo de acordo com as categorias. Caso não ten
 
 Não sabe como contribuir, [aprenda a criar um Pull Request](https://www.digitalocean.com/community/tutorials/como-criar-um-pull-request-no-github-pt).
 
+Esqueceu de algum termo ou pra que tecnologia X ou Y serve? É só checar a seção de [glossário](./glossary.md).
+
 ### Apollo / GraphQL
 
 - [Documentação oficial do Apollo](https://www.apollographql.com/docs/) - Site oficial da documentação do Apollo, separados entre server, client, basic e outros.
