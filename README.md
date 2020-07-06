@@ -23,6 +23,7 @@ Não sabe como contribuir, [aprenda a criar um Pull Request](https://www.digital
 - [Awesome NextJS](https://github.com/unicodeveloper/awesome-nextjs) - Coleção com milhares de links sobre NextJS.
 - [The Latest in Next.js 9.4 by Tim Neutkens](https://www.youtube.com/watch?v=UD98x-2mido) - Vídeo da palestra da ReactEurope 2020 que o co-criador do NextJS fez.
 - [NextJS Handbook](https://www.freecodecamp.org/news/the-next-js-handbook/) - Um ebook bem completo sobre o NextJS escrito pelo Flavio Copes.
+- [NextJS Tutorial](https://www.youtube.com/playlist?list=PLYSZyzpwBEWSQsrukurP09ksi49H9Yj40) - Playlist do [Bruno Antunes](https://twitter.com/bmvantunes) com vários exemplos de Autenticação, Rotas e até uma simples aplicação utilizando NextJS.
 
 ### Strapi
 
