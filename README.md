@@ -1,3 +1,5 @@
+![Check Markdown links](https://github.com/React-Avancado/links-estudo/workflows/Check%20Markdown%20links/badge.svg)
+
 ## React Avançado - Links úteis
 
 Segue abaixo uma lista com vários links de vídeos, artigos, repositórios no Github e qualquer coisa que seja interessante para os nossos estudos. Tudo referente ao curso [React Avançado](https://reactavancado.com.br/).
