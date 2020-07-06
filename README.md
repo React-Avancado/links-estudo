@@ -58,5 +58,5 @@ Não sabe como contribuir, [aprenda a criar um Pull Request](https://www.digital
 ### Versionamento
 
 - [Repositório do Husky](https://github.com/typicode/husky) - Repositório oficial da biblioteca Husky.
-- [Repositório do lint-staged)(https://github.com/okonet/lint-staged) - Repositório oficial da biblioteca lint-staged.
+- [Repositório do lint-staged](https://github.com/okonet/lint-staged) - Repositório oficial da biblioteca lint-staged.
 - [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) - Convenção de commits para padronização das mensagens.
