@@ -44,7 +44,7 @@ Não sabe como contribuir, [aprenda a criar um Pull Request](https://www.digital
 - [json-graphql-server](https://github.com/marmelab/json-graphql-server) - Crie uma api fake GrahpQl em poucos segundos.
 
 ### Testes
-
+- [Documentação oficial do Cypress](https://docs.cypress.io/) - Site oficial da documentação do Cypress.
 - [Site oficial da Testing Library](https://testing-library.com/) - Site oficial da Testing Library com documentação para usar com React e outras libs.
 - [Site oficial do Jest](https://jestjs.io/) - Site oficial do Jest com documentação e exemplos.
 - [Blog do Kent C Dodds](https://kentcdodds.com/blog/) - Kent C. Dodds é o criador da Testing Library e possui diversos artigos fantásticos sobre testes.
