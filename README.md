@@ -1,3 +1,5 @@
+![Check Markdown links](https://github.com/React-Avancado/links-estudo/workflows/Check%20Markdown%20links/badge.svg)
+
 ## React Avançado - Links úteis
 
 Segue abaixo uma lista com vários links de vídeos, artigos, repositórios no Github e qualquer coisa que seja interessante para os nossos estudos. Tudo referente ao curso [React Avançado](https://reactavancado.com.br/).
@@ -13,6 +15,7 @@ Não sabe como contribuir, [aprenda a criar um Pull Request](https://www.digital
 - [Awesome React GraphQL](https://github.com/hasura/awesome-react-graphql) - Coleção com vários links sobre React e GraphQL.
 - [Blog do Apollo](https://www.apollographql.com/blog/) - Blog oficial do Apollo com muitas informações sobre o Apollo e GraphQL em si.
 - [Tutoriais FREE de GraphQL](https://www.howtographql.com/) - Vários tutoriais FREE de GraphQL, abordando diferentes combinações de front e backend.
+- [Tutoriais rápidos do GraphQL - FREE](https://hasura.io/learn/) - Tutoriais direto ao ponto sobre como utilizar GraphQL nas suas aplicações.
 - [json-graphql-server](https://github.com/marmelab/json-graphql-server) - Crie uma api fake GrahpQl em poucos segundos.
 
 ### NextJS
@@ -22,6 +25,7 @@ Não sabe como contribuir, [aprenda a criar um Pull Request](https://www.digital
 - [Awesome NextJS](https://github.com/unicodeveloper/awesome-nextjs) - Coleção com milhares de links sobre NextJS.
 - [The Latest in Next.js 9.4 by Tim Neutkens](https://www.youtube.com/watch?v=UD98x-2mido) - Vídeo da palestra da ReactEurope 2020 que o co-criador do NextJS fez.
 - [NextJS Handbook](https://www.freecodecamp.org/news/the-next-js-handbook/) - Um ebook bem completo sobre o NextJS escrito pelo Flavio Copes.
+- [NextJS Tutorial](https://www.youtube.com/playlist?list=PLYSZyzpwBEWSQsrukurP09ksi49H9Yj40) - Playlist do [Bruno Antunes](https://twitter.com/bmvantunes) com vários exemplos de Autenticação, Rotas e até uma simples aplicação utilizando NextJS.
 
 ### Strapi
 
