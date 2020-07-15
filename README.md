@@ -43,7 +43,9 @@ Esqueceu de algum termo ou pra que tecnologia X ou Y serve? É só checar a seç
 
 - [Documentação oficial do Cypress](https://docs.cypress.io/) - Site oficial da documentação do Cypress.
 - [Site oficial da Testing Library](https://testing-library.com/) - Site oficial da Testing Library com documentação para usar com React e outras libs.
+- [Cheatsheet PDF](https://raw.githubusercontent.com/testing-library/react-testing-library/master/other/cheat-sheet.pdf) - Tabela explicando todos os testes que temos no Testing Library
 - [Site oficial do Jest](https://jestjs.io/) - Site oficial do Jest com documentação e exemplos.
+- [Jest DOM](https://github.com/testing-library/jest-dom#installation) - Guia no GitHub com vários matchers que podemos utilizar para analisar
 - [Blog do Kent C Dodds](https://kentcdodds.com/blog/) - Kent C. Dodds é o criador da Testing Library e possui diversos artigos fantásticos sobre testes.
 - [Awesome React Testing](https://github.com/infinitered/awesome-react-testing) - Coleção com vários links sobre testes em React.
 - [Test your React App](https://medium.com/@aatifbandey/test-your-react-app-with-react-testing-library-and-jest-dom-26b92201bbe3) - Exemplo de teste básico usando React Testing Library
