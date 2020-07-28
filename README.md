@@ -33,6 +33,7 @@ Esqueceu de algum termo ou pra que tecnologia X ou Y serve? É só checar a seç
 
 - [Site oficial do Strapi](https://strapi.io/) - Site oficial do Strapi contendo explicações sobre o Strapi, documentação e guias.
 - [Roadmap Strapi](https://portal.productboard.com/strapi/1-public-roadmap/tabs/4-testing) - Roadmap com as features que estão sendo pensadas, sendo feitas, em teste e já lançadas.
+- [Strapi Cheat Sheet](https://strapi-showcase.s3-us-west-2.amazonaws.com/CheatSheet.pdf) - Uma lista com comandos úteis do Strapi.
 - [Awesome Strapi](https://github.com/strapi/awesome-strapi) - Coleção com milhares de links sobre Strapi.
 - [Strapi Examples](https://github.com/strapi/strapi-examples) - Exemplos oficiais feitos com Strapi.
 - [Foodadvisor](https://foodadvisor.strapi.io/) - Exemplo oficial utilizado pela equipe do Strapi para mostrar a capacidade dele.
