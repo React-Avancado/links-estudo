@@ -64,4 +64,4 @@ Esqueceu de algum termo ou pra que tecnologia X ou Y serve? É só checar a seç
 
 - [Repositório do Husky](https://github.com/typicode/husky) - Repositório oficial da biblioteca Husky.
 - [Repositório do lint-staged](https://github.com/okonet/lint-staged) - Repositório oficial da biblioteca lint-staged.
-- [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) - Convenção de commits para padronização das mensagens.
+- [Conventional Commits](https://www.conventionalcommits.org/) - Convenção de commits para padronização das mensagens.
