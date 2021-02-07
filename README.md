@@ -66,3 +66,9 @@ Esqueceu de algum termo ou pra que tecnologia X ou Y serve? É só checar a seç
 - [Repositório do Husky](https://github.com/typicode/husky) - Repositório oficial da biblioteca Husky.
 - [Repositório do lint-staged](https://github.com/okonet/lint-staged) - Repositório oficial da biblioteca lint-staged.
 - [Conventional Commits](https://www.conventionalcommits.org/) - Convenção de commits para padronização das mensagens.
+
+### CSS
+
+- [Documentação da MDN](https://developer.mozilla.org/en-US/docs/Web/CSS) - Documentação do CSS da Mozila.
+- [Guias do CSS tricks](https://css-tricks.com/guides/) - Guias completos de css como flexbox, grid e alinhamento de texto.
+- [Codedrops](https://tympanus.net/codrops/) - Diversos efeitos avançados com CSS.
