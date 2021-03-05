@@ -71,4 +71,5 @@ Esqueceu de algum termo ou pra que tecnologia X ou Y serve? É só checar a seç
 
 - [Documentação da MDN](https://developer.mozilla.org/en-US/docs/Web/CSS) - Documentação do CSS da Mozila.
 - [Guias do CSS tricks](https://css-tricks.com/guides/) - Guias completos de css como flexbox, grid e alinhamento de texto.
+- [CSS pro tricks](https://github.com/AllThingsSmitty/css-protips) - Coleção de truques de css que te ajuda a usar css como um mestre
 - [Codedrops](https://tympanus.net/codrops/) - Diversos efeitos avançados com CSS.
